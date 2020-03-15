@@ -1,2 +1,2 @@
-# VBA-homework
-VBA Homework! :) 
+# VBA Challenge 
+' Rice University - VBA Scripting Challenge 
